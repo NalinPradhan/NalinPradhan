@@ -1,7 +1,6 @@
-- 👋 Hi, I’m NalinPradhan, from a tiny and mountainous little planet called Bhutan in Southeast Asia.
-- 👀 I’m interested in palying Guitar, reading Novels and of course, coding!
+- 👋 Hi, I’m NalinPradhan, from Bhutan.
+- 👀 I’m interested in palying Guitar, reading Novels and developing websites!
 - 🌱 I’m proficient in C++,C,Java,Python,Javascript,HTML,CSS.
-- 💞️ I’m looking to collaborate on Web Develpoment with Django, but I am open to anything web devlompment related actually.
 - 📫 You can find me on whatsapp/telegram: +91 7908618599, instagram: @__.nalin.___
 
 <!---
