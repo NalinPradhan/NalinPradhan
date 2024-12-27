@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NalinPradhan, from Bhutan.
 - 👀 I’m interested in palying Guitar, reading Novels and developing websites!
-- 🌱 I’m proficient in C++,C,Java,Python,Javascript,HTML,CSS.
+- 🌱 I’m proficient in C++,Javascript,HTML,CSS.
 - 📫 You can find me on whatsapp/telegram: +91 7908618599, instagram: @__.nalin.___
 
 <!---
